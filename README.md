@@ -2,7 +2,8 @@
 
 <p align="center">
   Studente di <b>Sviluppo Software</b> all'ITS ICT Torino<br>
-  Tech lead & project manager su VetApp — gestionale veterinario in sviluppo con un team di 5 nel percorso ITS / apprendistato
+  Tech lead & project manager su VetApp <br> 
+  gestionale veterinario in sviluppo con un team di 5 nel percorso ITS / apprendistato
 </p>
 
 ---
