@@ -2,22 +2,23 @@
 
 <p align="center">
   Studente di <b>Sviluppo Software</b> all'ITS ICT Torino<br>
-  <b>Tech lead & project manager</b> su un gestionale in produzione
+  Tech lead & project manager su VetApp — gestionale veterinario in sviluppo con un team di 5 nel percorso ITS / apprendistato
 </p>
 
 ---
 
-🌱 Sto consolidando **C# / ASP.NET Core**, partendo da un background solido in **Java / Spring Boot**
-🛠️ Mi muovo su tutto lo stack: backend, database, infrastruttura, un po' di frontend
-🖥️ Self-hoster per hobby — servizi media su VPS, container, la classica tana da smanettone
+🌱 Sto consolidando **C# / ASP.NET Core**, partendo da un background solido in **Java / Spring Boot**<br>
+🛠️ Mi muovo su tutto lo stack: backend, database, infrastruttura, un po' di frontend<br>
+🖥️ Self-hoster per hobby — servizi media su VPS, container, la classica tana da smanettone<br>
 
-### 🚀 Progetti
+### 📌 Progetti
 
 | Progetto | Cos'è | Stack |
 |---|---|---|
 | **VetApp** | Gestionale veterinario, sviluppato come tech lead con un team di 5 | Spring Boot · PostgreSQL · Docker · *repo privato di team* |
 | **Kakera** | Social tracking per anime — auth, feed, tracking | Spring Boot · TypeScript |
 | **BMO** | Agente AI multi-componente con tool calling e TTS | Next.js · .NET Core · Python |
+| **Clado/VetApp** | Gestionale veterinario · Spring Boot · PostgreSQL · team di 5 *(repo privato di team)*
 
 ### 🧰 Stack
 
