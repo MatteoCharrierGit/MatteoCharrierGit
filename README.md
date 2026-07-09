@@ -1,10 +1,9 @@
-<h3 align="center">Ciao, sono Matteo 👋</h3>
+<h3 align="center" style="font-size: 2em;">Ciao, sono Matteo 👋</h3>
 
-<p align="center">
+<div align="center">
   Studente di <b>Sviluppo Software</b> all'ITS ICT Torino<br>
-  Tech lead & project manager su VetApp <br> 
-  gestionale veterinario in sviluppo con un team di 5 nel percorso ITS / apprendistato
-</p>
+  Tech lead & project manager su VetApp - Gestionale veterinario in sviluppo con un team di 5 nel percorso ITS
+</div>
 
 ---
 
