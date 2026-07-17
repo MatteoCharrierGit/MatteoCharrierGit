@@ -18,7 +18,7 @@
 | **VetApp** | Gestionale veterinario, sviluppato come tech lead con un team di 5 | Spring Boot · PostgreSQL · Docker · *repo privato di team* |
 | **Kakera** | Social tracking per anime — auth, feed, tracking | Spring Boot · TypeScript |
 | **BMO** | Agente AI multi-componente con tool calling e TTS | Next.js · .NET Core · Python |
-| **Clado/VetApp** | Gestionale veterinario · team di 5 *(repo privato di team)*| Spring Boot · PostgreSQL 
+| **gEngine** | GameEngine Custom · GUI Editor | .NET 10 · Raylib_cs · OpenGL |
 
 ### 🧰 Stack
 
